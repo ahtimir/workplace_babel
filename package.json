@@ -7,6 +7,9 @@
     "core-js": "^3.6.5"
   },
   "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
     "defender-game": "^1.0.0"
   },
   "scripts": {
